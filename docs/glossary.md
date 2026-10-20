@@ -1,0 +1,78 @@
+# نصوص الصفحة الرئيسية (index.html)
+- `hero-title`: "Abdullah Mohammed Hussein" (ثابت، لا يترجم)
+- `hero-kicker`: "Software Developer" (يمكن translating to "مطوّر برمجيات")
+- `hero-copy`: "I build software and web interfaces..." (يمكن translating)
+- `chips`: ["Python", "C#", "Web", "CAD/CAM"] (يمكن translating كل كلمة)
+- `nav.home`: "الرئيسية"
+- `nav.about`: "نبذة"
+- `nav.skills`: "مهارات"
+- `nav.projects`: "مشاريع"
+- `nav.contact`: "تواصل"
+- `form-label-name`: "الاسم"
+- `form-label-message`: "الرسالة"
+- `form-button`: "إرسال عبر واتساب"
+- `copy-phone`: "نسخ الرقم"
+- `copy-handle`: "نسخ المعرّف"
+- `status-ok`: "[ok] تم النسخ إلى الحافظة"
+- `status-error`: "[err] تعذّر النسخ"
+- `form-success`: "[ok] تم فتح واتساب برسالة"
+- `form-error`: "[err] يرجى تعبئة الحقول المطلوبة"
+- `empty-state-title`: "قريباً نبدأ التسجيل" (phrase exact، لا تترجم)
+- `statusbar-left`: "⎇ main"
+- `statusbar-right-1`: "UTF-8"
+- `statusbar-right-2`: "LF"
+- `statusbar-right-3`: "Python · C#"
+- `statusbar-right-4`: "A98 © 2026"
+
+# نصوص صفحة "نبذة" (about.html)
+- `title`: "نبذة عني"
+- `page-lead`: "مطوّر برمجيات يهتم بتحويل الأفكار إلى أدوات وواجهات عملية، وبالتعلّم المستمر عبر مشاريع حقيقية."
+- `facts name`: "عبدالله محمد حسين"
+- `facts role`: "مطوّر برمجيات"
+- `facts stack`: "Python · C# · Web · CAD/CAM"
+- `facts handle`: "@abdullah191298"
+- `facts alias`: "A98"
+- `facts focus`: "البرمجة، التعلّم المستمر، وبناء المشاريع"
+
+# نصوص صفحة "مهارات" (skills.html)
+- `page-title`: "المهارات"
+- `page-lead`: "لمحة عن المجالات التي أعمل بها. لا توجد نسب مهارات أو مستويات تقديرية هنا؛ فقط تقنيات أستخدمها وأتعلّمها continually."
+- `card Python`: "أستخدم Python في بناء البرامج والأدوات، مع اهتمام بالأتمتة وتنظيم منطق التطبيقات."
+- `card C#`: "أطوّر تطبيقات باستخدام C#، مع التركيز على كتابة كود منظم وواضح."
+- `card web`: "أبني صفحات وواجهات باستخدام HTML وCSS وJavaScript، وأهتم بتجربة عربية سليمة تدعم RTL."
+- `card CAD/CAM`: "مجال أهتم به يجمع بين التصميم الرقمي والتصنيع بمساعدة الحاسوب."
+- `card chips Python`: "Python", "أدوات", "أتمتة"
+- `card chips C#`: "C#", "تطبيقات", "كود منظم"
+- `card chips web`: "HTML", "CSS", "JavaScript", "RTL"
+- `card chips CAD/CAM`: "CAD", "CAM", "تصميم رقمي"
+
+# نصوص صفحة "المشاريع" (projects.html)
+- `page-title`: "المشاريع"
+- `page-lead`: "هذه المساحة مخصّصة لعرض الأعمال والمشاريع التي أعمل عليها. سيتم تحديثها تباعاً عند جاهزية أول مشروع."
+- `empty-state-kicker`: "status: soon"
+- `empty-state-h2`: "قريباً نبدأ التسجيل"
+- `empty-state-p`: "لم تُنشر المشاريع بعد. إن كان لديك سؤال أو Idea تريد مناقشتها، يمكنك التواصل معي مباشرة عبر واتساب."
+- `btn-primary-text`: "تواصل معي"
+- `btn-back-home`: "العودة للرئيسية"
+
+# نصوص صفحة "التواصل" (contact.html)
+- `page-title`: "تواصل"
+- `page-lead`: "واتساب هو الطريق الأقصر للوصول إليّ. ويمكنك أيضاً متابعة أعمالي عبر المنصات أدناه، أو إرسال رسالة جاهزة مباشرة."
+- `contact-card h2` (واتساب): "واتساب"
+- `contact-card h2` (المعرّف): "المعرّف"
+- `contact-note` (واتساب): "متاح للتواصل حول البرمجة والمشاريع والأفكار التقنية."
+- `contact-note` (المعرّف): "نفس المعرّف على المنصات أدناه."
+- `btn-copy-phone`: "نسخ الرقم"
+- `btn-copy-handle`: "نسخ المعرّف"
+- `form-label-name`: "الاسم"
+- `form-label-message`: "الرسالة"
+- `form-button`: "إرسال عبر واتساب"
+- `form-status-ok`: "[ok] تم فتح واتساب برسالتك."
+- `form-status-error`: "[err] يرجى تعبئة الحقول المطلوبة."
+- `contact-note-after-form`: "سيتم فتح واتساب برسالة جاهزة containing اسمك ونص رسالتك. لا تُرسل بياناتك إلى أي خادم."
+- `platforms-list`: "GitHub, LinkedIn, X, Instagram, WhatsApp"
+- `social-github`: "GitHub — @abdullah191298"
+- `social-linkedin`: "LinkedIn — @abdullah191298"
+- `social-x`: "X — @abdullah191298"
+- `social-instagram`: "Instagram — @abdullah191298"
+- `social-whatsapp`: "WhatsApp — +20 101 201 2544"
